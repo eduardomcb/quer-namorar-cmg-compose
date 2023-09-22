@@ -11,6 +11,9 @@ Este é um projeto de site simples criado usando Kotlin e o framework Kobweb. O 
 
 Este projeto é uma brincadeira interativa destinada a proporcionar um momento divertido e descontraído para os usuários.
 
+https://github.com/eduardomcb/quer-namorar-cmg-compose/assets/116934175/50f7f4df-6d52-4a42-a9ce-474c47c9fbec
+
+
 ## Tecnologias Utilizadas
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
@@ -28,8 +31,8 @@ Para executar o site em seu ambiente local, siga estas etapas:
 
 2. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/eduardomcb/quernamorarcmg-compose.git
-   cd quernamorarcmg-compose
+   git clone https://github.com/eduardomcb/quer-namorar-cmg-compose.git
+   cd quer-namorar-cmg-compose
    ```
 
 3. **Execute o Site**:
